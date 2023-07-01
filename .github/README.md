@@ -34,7 +34,7 @@ git clone https://github.com/voyeg3r/user_example ~/.config/astrovim/lua/user
 
 #### Start your custom Neovim 
 
-```shell
+```sh
 nv
 ```
 Enjoy
