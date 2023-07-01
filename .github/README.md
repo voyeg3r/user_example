@@ -24,13 +24,14 @@ You can also just clone this repository directly if you do not want to track you
 
 #### Clone the repository
 
-```shell
+```sh
 git clone https://github.com/<your_user>/<your_repository> ~/.config/astrovim/lua/user
 ```
 
 In my case:
 ```
 git clone https://github.com/voyeg3r/user_example ~/.config/astrovim/lua/user
+```
 
 #### Start your custom Neovim 
 
